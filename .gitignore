@@ -1,0 +1,8 @@
+# Ignore pretty much everything:
+*
+
+# Except for these files:
+!layout.brd
+!layout.sch
+!README.md
+
